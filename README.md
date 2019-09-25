@@ -1,1 +1,2 @@
-# c_teaching_project
+# C Teaching Project
+- C best practices: https://rigtorp.se/cpp-best-practices.html
