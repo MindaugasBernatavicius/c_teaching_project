@@ -1,0 +1,1 @@
+- Vector / dinamic array: https://stackoverflow.com/questions/3536153/c-dynamically-growing-array
