@@ -1,1 +1,4 @@
-- Testing: http://www.jera.com/techinfo/jtns/jtn002.html
+- Testing: 
+  - http://www.jera.com/techinfo/jtns/jtn002.html
+  - https://git.cryptomilk.org/projects/cmocka.git/
+  - http://eradman.com/posts/tdd-in-c.html
